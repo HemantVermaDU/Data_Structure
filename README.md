@@ -5,7 +5,9 @@ In this repository I'll add all of my data structures programs. Most of them are
 
 ## Data Structure Programs :+1:
 
-
+## Arrays
+* Single and Multi-dimensional Arrays
+* Sparse Matrices (Array and Linked Representation)
 ## Stack
 * Stack using Array
 * Stack using Linked-List
@@ -18,7 +20,7 @@ In this repository I'll add all of my data structures programs. Most of them are
 * Height of tree
 * No. of leaf nodes
 * No. of internal nodes
-##Sorting
+## Searching and Sorting
 * Insertion Sort
 * Searching
 * Linear search
