@@ -7,7 +7,7 @@ In this repository I'll add all of my data structures programs. Most of them are
 
 ## Arrays
 * Single and Multi-dimensional Arrays
-* Sparse Matrices (Array and Linked Representation)
+
 ## Stack
 * Stack using Array
 * Stack using Linked-List
